@@ -1,4 +1,3 @@
-
 public class PieceValidation {
     // Helper method to check if a piece's path is clear (for pieces that move in straight lines)
     public static boolean isPathClear(char[][] board, int startRow, int startCol, int endRow, int endCol) {
